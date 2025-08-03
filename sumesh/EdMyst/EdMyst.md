@@ -1,0 +1,5 @@
+[[Day 1 Friday,August 1 (EdMyst, jotai)]]
+[[Day 2  saturday August 2(jotai , AI interview assesment)]]
+[[Day3 sunday August 3(holiday)]]
+[[Day4 Monday August 4( )]]
+[[Day 5 Tuesday August 5()]]
